@@ -1,0 +1,2 @@
+# swiftexc
+Excercise 1
